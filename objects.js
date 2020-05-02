@@ -5,13 +5,13 @@
 
 // a user object
 const user = {
-    name : "Maye Edwin",
-    username : "mayeedwin",
+    name : "Velda Kiara",
+    username : "veldakiara",
     verified: true,
     social : {
-      twitter: "mayeedwin1",
-      github: "mayeedwin",
-      site: "https://nerdlyweb.web.app"
+      twitter: "veldakiara",
+      github: "veldakarimi",
+      site: "https://veldakarimi.wordpress.com."
       }
    }
 //Normally, if you wanted to access and use any key value, below is what you'd do.
